@@ -22,6 +22,8 @@ https://zakon.rada.gov.ua/laws/show/2939-17#Text
 
 Будь-яка особа може вільно копіювати, публікувати, поширювати, використовувати, у тому числі в комерційних цілях, у поєднанні з іншою інформацією або шляхом включення до складу власного продукту, публічну інформацію у формі відкритих даних з обов’язковим посиланням на джерело отримання такої інформації.
 
+**Приклад оприлюднення знеособлених даних** - ЄДЕБО вступники з ТОТ: https://vstup.edbo.gov.ua/offer/766890/
+
 
 **Стаття 19. Оформлення запитів на інформацію**
 
@@ -29,7 +31,51 @@ https://zakon.rada.gov.ua/laws/show/2939-17#Text
 
 2. Запитувач має право звернутися до розпорядника інформації із запитом на інформацію незалежно від того, стосується ця інформація його особисто чи ні, без пояснення причини подання запиту.
 
+### Як подати запит
+
+На сайтах держорганів публічну інформацію часто можна знайти в розділу "громадянам".
+
+Приклад із сайту НСЗУ: https://nszu.gov.ua/gromadyanam
+
+Міністерство інфраструктури: https://mtu.gov.ua/
+
+### Підводні камені
+Іноді ті дані, які за логікою мали б знаходитись в розпорядженні тої чи іншої інституції, там відсутні.
+
+https://texty.org.ua/articles/82538/Dani_shhodo_vakcynaciji_Nemaje_khovajut_chy_ne-82538/
+
+https://texty.org.ua/articles/101608/vidstezhuyemo-epidemiyu-yak-vlashtovani-interaktyvni-proyekty-tekstiv-pro-covid-19-i-yakoyi-she-statystyky-nam-ne-vystachaye/
+
+
+## Шукаємо дані самостійно
+
+### Картографічні дані:
+https://www.drv.gov.ua/ords/portal/!cm_core.cm_index?option=ext_dvk&pid100=80&pgf7691=2&prejim=1
+
+
+### Спопчатку треба розібратись в тому, як влаштований html:
+https://www.codecademy.com/
+
+### Спробуємо поскрейпити:
+Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
+
+https://www.booking.com/
+https://auto.ria.com/uk/car/used/
+https://kino-teatr.ua/uk/main/films_rating/order_by/title.asc.phtml?show=on
+
+**Скрейпити можна будь-якою мовою** 
+На мові R можна почати з бібліотеки rvest
+На мові Python з Beautiful Soup
+Selenium - для скрейпінгу динамічних сторінок.
+
+
+**Ми скрейпили дані для проектів**:
+
+Як падали ціни на житло перед фіналом Ліги чемпіонів: https://texty.org.ua/articles/85410/Jak_padaly_ciny_na_zhytlo_pered_finalom-85410/
+"Чорна пʼятниця": https://texty.org.ua/d/2018/blackfriday/
+"Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
 
 
 
-**Приклад оприлюднення знеособлених даних** - ЄДЕБО вступники з ТОТ: https://vstup.edbo.gov.ua/offer/766890/
+
+
