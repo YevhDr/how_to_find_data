@@ -59,13 +59,18 @@ https://www.drv.gov.ua/ords/portal/!cm_core.cm_index?option=ext_dvk&pid100=80&pg
 Тут [https://www.codecademy.com/ ] є безкоштовний курс для вивчення html та css.
 
 
-### Розширення для браузера:
-Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
+### Що б такого поскрейпити: 
 
 https://www.booking.com/
+
 https://auto.ria.com/uk/car/used/
+
 https://kino-teatr.ua/uk/main/films_rating/order_by/title.asc.phtml?show=on
 
+
+### Розширення для браузера:
+
+Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
 
 ### Елементарно базовий приклад на Python (request, bs4)
 
