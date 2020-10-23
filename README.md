@@ -56,6 +56,7 @@ https://www.drv.gov.ua/ords/portal/!cm_core.cm_index?option=ext_dvk&pid100=80&pg
 ### Спопчатку треба розібратись в тому, як влаштований html:
 https://www.codecademy.com/
 
+
 ### Спробуємо поскрейпити:
 Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
 
@@ -81,10 +82,10 @@ Selenium - для скрейпінгу динамічних сторінок.
 "Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
 
 
-### Простий приклад на python
+### Елементарно базовий приклад на Python (request, bs4)
 https://colab.research.google.com/drive/1KSsrfZC4I4QriVP464RF5Lm0XAyvJ1bK?usp=sharing
 
-### Простий приклад скрейпінгу на R-rvest
+### Елементарно базовий приклад скрейпінгу на R (rvest)
 https://rstudio.cloud/project/1795840
 
 
