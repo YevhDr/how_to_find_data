@@ -54,40 +54,38 @@ https://www.drv.gov.ua/ords/portal/!cm_core.cm_index?option=ext_dvk&pid100=80&pg
 
 
 ### Спопчатку треба розібратись в тому, як влаштований html:
-https://www.codecademy.com/
+
+Здебільшого для скрейпінгу використовують теги:
+
+**div h1 h2 h3 p img span li a** тощо
+  
+а також aтрібути **id, class, name** та будь-які інші
+  
+безкоштовний курс для вивчення html та css https://www.codecademy.com/
 
 
-### Спробуємо поскрейпити:
+### Розширення для браузера:
 Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
 
 https://www.booking.com/
 https://auto.ria.com/uk/car/used/
 https://kino-teatr.ua/uk/main/films_rating/order_by/title.asc.phtml?show=on
 
-**Скрейпити можна будь-якою мовою** 
 
-На мові R можна почати з бібліотеки rvest
+### Елементарно базовий приклад на Python (request, bs4)
 
-На мові Python з Beautiful Soup
+https://colab.research.google.com/drive/1KSsrfZC4I4QriVP464RF5Lm0XAyvJ1bK?usp=sharing
 
-Selenium - для скрейпінгу динамічних сторінок.
+### Елементарно базовий приклад скрейпінгу на R (rvest)
+
+https://rstudio.cloud/project/1795840
 
 
-**Ми скрейпили дані для проектів**:
+### Ми скрейпили дані для проектів:
 
 Як падали ціни на житло перед фіналом Ліги чемпіонів: https://texty.org.ua/articles/85410/Jak_padaly_ciny_na_zhytlo_pered_finalom-85410/
 
 "Чорна пʼятниця": https://texty.org.ua/d/2018/blackfriday/
 
 "Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
-
-
-### Елементарно базовий приклад на Python (request, bs4)
-https://colab.research.google.com/drive/1KSsrfZC4I4QriVP464RF5Lm0XAyvJ1bK?usp=sharing
-
-### Елементарно базовий приклад скрейпінгу на R (rvest)
-https://rstudio.cloud/project/1795840
-
-
-
 
