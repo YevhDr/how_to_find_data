@@ -81,7 +81,12 @@ Selenium - для скрейпінгу динамічних сторінок.
 "Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
 
 
+### Простий приклад на python
+https://colab.research.google.com/drive/1KSsrfZC4I4QriVP464RF5Lm0XAyvJ1bK?usp=sharing
 
 ### Простий приклад скрейпінгу на R-rvest
 https://rstudio.cloud/project/1795840
+
+
+
 
