@@ -52,16 +52,11 @@ https://texty.org.ua/articles/101608/vidstezhuyemo-epidemiyu-yak-vlashtovani-int
 ### Картографічні дані:
 https://www.drv.gov.ua/ords/portal/!cm_core.cm_index?option=ext_dvk&pid100=80&pgf7691=2&prejim=1
 
-
 ### Спопчатку треба розібратись в тому, як влаштований html:
 
-Здебільшого для скрейпінгу використовують теги:
-
-**div h1 h2 h3 p img span li a** тощо
+Здебільшого для скрейпінгу використовують теги: **div h1 h2 h3 p img span li a** тощо. Також треба розуміти, як і для чого використовуются aтрібути **id, class, name, data** та будь-які інші
   
-а також aтрібути **id, class, name** та будь-які інші
-  
-безкоштовний курс для вивчення html та css https://www.codecademy.com/
+Тут [https://www.codecademy.com/ ] є безкоштовний курс для вивчення html та css.
 
 
 ### Розширення для браузера:
