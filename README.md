@@ -96,3 +96,9 @@ https://rstudio.cloud/project/1795840
 
 "Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
 
+
+# Як встановити R
+Заватажити R: https://cran.r-project.org/
+Завантажити R-studio: https://rstudio.com/products/rstudio/download/
+
+Спочатку встановити R, потім R-studio
