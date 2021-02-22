@@ -1,3 +1,12 @@
+# Ми скрейпили дані для проектів:
+
+Як падали ціни на житло перед фіналом Ліги чемпіонів: https://texty.org.ua/articles/85410/Jak_padaly_ciny_na_zhytlo_pered_finalom-85410/
+
+"Чорна пʼятниця": https://texty.org.ua/d/2018/blackfriday/
+
+"Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
+
+
 # Де шукати дані
 
 ## Закон про доступ до публічної інформації
@@ -53,7 +62,6 @@ https://texty.org.ua/articles/82538/Dani_shhodo_vakcynaciji_Nemaje_khovajut_chy_
 
 https://texty.org.ua/articles/101608/vidstezhuyemo-epidemiyu-yak-vlashtovani-interaktyvni-proyekty-tekstiv-pro-covid-19-i-yakoyi-she-statystyky-nam-ne-vystachaye/
 
-
 ## Шукаємо дані самостійно
 
 ### Картографічні дані:
@@ -86,15 +94,6 @@ https://colab.research.google.com/drive/1KSsrfZC4I4QriVP464RF5Lm0XAyvJ1bK?usp=sh
 ### Елементарно базовий приклад скрейпінгу на R (rvest)
 
 https://rstudio.cloud/project/1795840
-
-
-### Ми скрейпили дані для проектів:
-
-Як падали ціни на житло перед фіналом Ліги чемпіонів: https://texty.org.ua/articles/85410/Jak_padaly_ciny_na_zhytlo_pered_finalom-85410/
-
-"Чорна пʼятниця": https://texty.org.ua/d/2018/blackfriday/
-
-"Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
 
 
 # Як встановити R
