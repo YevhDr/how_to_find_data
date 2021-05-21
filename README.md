@@ -1,12 +1,3 @@
-# Ми скрейпили дані для проектів:
-
-Як падали ціни на житло перед фіналом Ліги чемпіонів: https://texty.org.ua/articles/85410/Jak_padaly_ciny_na_zhytlo_pered_finalom-85410/
-
-"Чорна пʼятниця": https://texty.org.ua/d/2018/blackfriday/
-
-"Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
-
-
 # Де шукати дані
 
 ## Закон про доступ до публічної інформації
@@ -94,6 +85,15 @@ https://www.booking.com/
 https://auto.ria.com/uk/car/used/
 
 https://kino-teatr.ua/uk/main/films_rating/order_by/title.asc.phtml?show=on
+
+
+# Ми скрейпили дані для проектів:
+
+Як падали ціни на житло перед фіналом Ліги чемпіонів: https://texty.org.ua/articles/85410/Jak_padaly_ciny_na_zhytlo_pered_finalom-85410/
+
+"Чорна пʼятниця": https://texty.org.ua/d/2018/blackfriday/
+
+"Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
 
 
 ### Розширення для браузера:
