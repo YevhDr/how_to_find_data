@@ -60,6 +60,8 @@ https://zakon.rada.gov.ua/laws/show/2939-17#Text
 
 https://www.kmu.gov.ua/npas/248573101
 
+Зміни до постанови: https://zakon.rada.gov.ua/laws/show/407-2021-%D0%BF#Text
+
 
 ### Підводні камені
 Іноді ті дані, які за логікою мали б знаходитись в розпорядженні тої чи іншої інституції, там відсутні.
