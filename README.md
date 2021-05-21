@@ -96,10 +96,6 @@ https://kino-teatr.ua/uk/main/films_rating/order_by/title.asc.phtml?show=on
 "Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
 
 
-### Розширення для браузера:
-
-Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
-
 ### Елементарно базовий приклад на Python (request, bs4)
 
 https://colab.research.google.com/drive/1KSsrfZC4I4QriVP464RF5Lm0XAyvJ1bK?usp=sharing
@@ -107,6 +103,11 @@ https://colab.research.google.com/drive/1KSsrfZC4I4QriVP464RF5Lm0XAyvJ1bK?usp=sh
 ### Елементарно базовий приклад скрейпінгу на R (rvest)
 
 https://rstudio.cloud/project/1795840
+
+
+### Розширення для браузера:
+
+Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
 
 
 # Як встановити R
