@@ -87,6 +87,12 @@ https://auto.ria.com/uk/car/used/
 https://kino-teatr.ua/uk/main/films_rating/order_by/title.asc.phtml?show=on
 
 
+## Simple scraper:
+
+Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
+
+
+
 # Ми скрейпили дані для проектів:
 
 Як падали ціни на житло перед фіналом Ліги чемпіонів: https://texty.org.ua/articles/85410/Jak_padaly_ciny_na_zhytlo_pered_finalom-85410/
@@ -103,12 +109,6 @@ https://colab.research.google.com/drive/1KSsrfZC4I4QriVP464RF5Lm0XAyvJ1bK?usp=sh
 ### Елементарно базовий приклад скрейпінгу на R (rvest)
 
 https://rstudio.cloud/project/1795840
-
-
-### Розширення для браузера:
-
-Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
-
 
 # Як встановити R
 Заватажити R: https://cran.r-project.org/
