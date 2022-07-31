@@ -42,7 +42,7 @@ https://zakon.rada.gov.ua/laws/show/2939-17#Text
 
 На сайтах держорганів публічну інформацію часто можна знайти в розділу "громадянам".
 
-Приклад із сайту НСЗУ: https://nszu.gov.ua/gromadyanam
+Приклад із сайту НСЗУ: https://service.e-health.gov.ua/gromadyanam/osobistij-prijom/public-form
 
 Міністерство інфраструктури: https://mtu.gov.ua/
 
