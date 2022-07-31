@@ -73,6 +73,16 @@ https://militaryland.net/ukraine/deployment-map/
 
 Щоб швидко перевірити завантажений файл (geojson), можна закинути його у https://mapshaper.org/
 
+
+### Overpass turbo:
+
+Шукаємо памʼятники Шевченку:
+
+[out:json][timeout:40];
+node['historic'='memorial']['name'~'Шевченк']({{bbox}});
+out body;
+
+
 ### Спопчатку треба розібратись в тому, як влаштований html:
 
 Здебільшого для скрейпінгу використовують теги: **div h1 h2 h3 p img span li a** тощо. Також треба розуміти, як і для чого використовуются aтрібути **id, class, name, data** та будь-які інші
