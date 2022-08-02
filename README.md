@@ -127,14 +127,3 @@ Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81
 
 https://colab.research.google.com/drive/1KSsrfZC4I4QriVP464RF5Lm0XAyvJ1bK?usp=sharing
 
-### Елементарно базовий приклад скрейпінгу на R (rvest) 
-
-Краще відразу вчитись скрейпити на python)))
-
-https://rstudio.cloud/project/1795840
-
-# Як встановити R
-Заватажити R: https://cran.r-project.org/
-Завантажити R-studio: https://rstudio.com/products/rstudio/download/
-
-Спочатку встановити R, потім R-studio
