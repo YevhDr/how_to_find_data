@@ -81,10 +81,11 @@ https://militaryland.net/ukraine/deployment-map/
 ### Overpass turbo:
 
 Шукаємо памʼятники Шевченку:
-
+```
 [out:json][timeout:40];
 node['historic'='memorial']['name'~'Шевченк']({{bbox}});
 out body;
+```
 
 
 ### Спопчатку треба розібратись в тому, як влаштований html:
