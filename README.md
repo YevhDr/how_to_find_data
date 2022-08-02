@@ -92,7 +92,7 @@ out body;
 
 Здебільшого для скрейпінгу використовують теги: **div h1 h2 h3 p img span li a** тощо. Також треба розуміти, як і для чого використовуются aтрібути **id, class, name, data** та будь-які інші
   
-Тут [https://www.codecademy.com/ ] є безкоштовний курс для вивчення html та css:
+Тут [https://www.codecademy.com/ ] є безкоштовні курси для вивчення html та css:
 
 https://www.codecademy.com/learn/learn-html
 
