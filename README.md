@@ -129,13 +129,15 @@ out skel qt;
 
 Здебільшого для скрейпінгу використовують теги: **div h1 h2 h3 p img span li a** тощо. Також треба розуміти, як і для чого використовуются aтрібути **id, class, name, data** та будь-які інші
   
-Тут [https://www.codecademy.com/ ] є безкоштовні курси для вивчення html та css:
+Тут [https://www.codecademy.com/ ] є безкоштовні курси для вивчення html, css та скрейпінгу:
 
 https://www.codecademy.com/learn/learn-html
 
 https://www.codecademy.com/learn/learn-css
 
-Безкоштовний курс [https://www.simplilearn.com/learn-basics-of-web-scraping-in-python-free-course-skillup] зі скрейпінгу для Python
+https://www.codecademy.com/learn/learn-web-scraping
+
+https://www.simplilearn.com/learn-basics-of-web-scraping-in-python-free-course-skillup
 
 
 ### Що б такого поскрейпити: 
