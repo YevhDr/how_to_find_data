@@ -111,6 +111,16 @@ https://militaryland.net/ukraine/deployment-map/
 node['historic'='memorial']['name'~'Шевченк']({{bbox}});
 out body;
 ```
+або парковки
+```
+[out:json][timeout:25];
+(
+  node["amenity"="parking"]({{bbox}});
+);
+out body;
+>;
+out skel qt;
+```
 
 
 ### Спопчатку треба розібратись в тому, як влаштований html:
