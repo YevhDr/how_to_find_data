@@ -67,6 +67,31 @@ https://texty.org.ua/articles/101608/vidstezhuyemo-epidemiyu-yak-vlashtovani-int
 
 ## Шукаємо дані самостійно
 
+### Цікавинки
+
+Спільнота Tidy Tuesday: https://github.com/rfordatascience/tidytuesday
+
+Kaggle: https://www.kaggle.com/datasets
+
+Goggle Database: https://datasetsearch.research.google.com
+
+### Інше
+
+Міжнародний валютний фонд: https://www.imf.org/en/Data
+
+Світовий банк: https://data.worldbank.org
+
+Google trends: https://trends.google.com/trends/?geo=US
+
+Гугл публікує відкриті датасети: https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&pli=1
+
+Великий перелік наборів даних: https://github.com/awesomedata/awesome-public-datasets
+
+Університет Гарварда: https://dataverse.harvard.edu (Сайти багатьох відомих університетів публікують цікаві набори даних і пропонують їх у публічний доступ)
+
+NASA: https://data.nasa.gov/data_visualizations.html
+
+
 ### Картографічні дані:
 
 https://www.drv.gov.ua/ords/portal/!cm_core.cm_index?option=ext_dvk&pid100=80&pgf7691=2&prejim=1
