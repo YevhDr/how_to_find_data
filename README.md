@@ -135,6 +135,8 @@ https://www.codecademy.com/learn/learn-html
 
 https://www.codecademy.com/learn/learn-css
 
+Безкоштовний курс [https://www.simplilearn.com/learn-basics-of-web-scraping-in-python-free-course-skillup] зі скрейпінгу для Python
+
 
 ### Що б такого поскрейпити: 
 
