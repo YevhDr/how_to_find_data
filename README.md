@@ -22,7 +22,7 @@ https://zakon.rada.gov.ua/laws/show/2939-17#Text
 
 Будь-яка особа може вільно копіювати, публікувати, поширювати, використовувати, у тому числі в комерційних цілях, у поєднанні з іншою інформацією або шляхом включення до складу власного продукту, публічну інформацію у формі відкритих даних з обов’язковим посиланням на джерело отримання такої інформації.
 
-**Приклад оприлюднення знеособлених даних** - ЄДЕБО вступники з ТОТ: https://vstup.edbo.gov.ua/offer/766890/
+**Приклад оприлюднення знеособлених даних** - ЄДЕБО вступники з ТОТ.
 
 
 **Стаття 19. Оформлення запитів на інформацію**
@@ -38,9 +38,21 @@ https://zakon.rada.gov.ua/laws/show/2939-17#Text
 Розпорядник інформації, який не володіє запитуваною інформацією, але якому за статусом або характером діяльності відомо або має бути відомо, хто нею володіє, зобов'язаний направити цей запит належному розпоряднику з одночасним повідомленням про це запитувача. У такому разі відлік строку розгляду запиту на інформацію починається з дня отримання запиту належним розпорядником.
 
 
-### Публічна інформація під час воєного стану: 
+### Публічна інформація під час воєного стану:
 
-https://biz.ligazakon.net/news/211359_publchna-nformatsya-v-perod-vonnogo-stanu-yak-obmezhennya-v-dostup
+Відповідно до положень частини другої статті 64 Конституції України в умовах воєнного стану можуть бути обмежені деякі конституційні права і свободи громадян, зокрема право на вільне збирання, зберігання, використання і поширення інформації в будь-який спосіб.
+
+Детальніше про юридичний аспект: https://biz.ligazakon.net/news/211359_publchna-nformatsya-v-perod-vonnogo-stanu-yak-obmezhennya-v-dostup
+
+### Важливі дані, які закрили після початку війни:
+
+- Єдиний державний реєстр юридичних осіб, фізичних осіб-підприємців та громадських формувань
+
+- Фінзвітність від ДПС і Держстату
+
+- Реєстр декларацій держслужбовців та реєстр корупціонерів  (декларації закрили ще до війни)
+
+- Екологічні дані
 
 ### Як подати запит
 
@@ -71,7 +83,7 @@ https://texty.org.ua/articles/101608/vidstezhuyemo-epidemiyu-yak-vlashtovani-int
 
 Спільнота Tidy Tuesday: https://github.com/rfordatascience/tidytuesday
 
-Kaggle: https://www.kaggle.com/datasets
+Kaggle: https://www.kaggle.com/datasets (Приклад проєкта на даних Kaggle: https://texty.org.ua/d/2022/twitter/?src=main)
 
 Goggle Database: https://datasetsearch.research.google.com
 
@@ -124,8 +136,19 @@ out body;
 out skel qt;
 ```
 
+## Скрейпінг даних
 
-### Спопчатку треба розібратись в тому, як влаштований html:
+### Що б такого поскрейпити: 
+
+https://auto.ria.com/uk/car/used/
+
+
+## Simple scraper:
+
+Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
+
+
+### Спочатку треба розібратись в тому, як влаштований html:
 
 Здебільшого для скрейпінгу використовують теги: **div h1 h2 h3 p img span li a** тощо. Також треба розуміти, як і для чого використовуются aтрібути **id, class, name, data** та будь-які інші
   
@@ -140,20 +163,6 @@ https://www.codecademy.com/learn/learn-web-scraping
 https://www.simplilearn.com/learn-basics-of-web-scraping-in-python-free-course-skillup
 
 
-### Що б такого поскрейпити: 
-
-https://www.booking.com/
-
-https://auto.ria.com/uk/car/used/
-
-https://kino-teatr.ua/uk/main/films_rating/order_by/title.asc.phtml?show=on
-
-
-## Simple scraper:
-
-Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
-
-
 
 # Ми скрейпили дані для проектів:
 
@@ -163,8 +172,4 @@ Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81
 
 "Індустрія краси тоталітарна": https://texty.org.ua/d/2020/makeup/ та інших.
 
-
-### Елементарно базовий приклад на Python (request, bs4)
-
-https://colab.research.google.com/drive/1KSsrfZC4I4QriVP464RF5Lm0XAyvJ1bK?usp=sharing
 
