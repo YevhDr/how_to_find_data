@@ -95,8 +95,6 @@ Goggle Database: https://datasetsearch.research.google.com
 
 Google trends: https://trends.google.com/trends/?geo=US
 
-Гугл публікує відкриті датасети: https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&pli=1
-
 Великий перелік наборів даних: https://github.com/awesomedata/awesome-public-datasets
 
 Університет Гарварда: https://dataverse.harvard.edu (Сайти багатьох відомих університетів публікують цікаві набори даних і пропонують їх у публічний доступ)
