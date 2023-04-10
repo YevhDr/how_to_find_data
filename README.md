@@ -87,6 +87,8 @@ Kaggle: https://www.kaggle.com/datasets (Приклад проєкта на да
 
 Goggle Database: https://datasetsearch.research.google.com
 
+Awesome OSINT: https://github.com/ptrBodnar/awesome-osint
+
 ### Інше
 
 Міжнародний валютний фонд: https://www.imf.org/en/Data
