@@ -164,6 +164,9 @@ https://chrome.google.com/webstore/detail/ginfinity/dgomfdmdnjbnfhodggijhpbmkgfa
 ## Кастомізований пошук
 https://chrome.google.com/webstore/detail/search-filter/eidhkmnbiahhgbgpjpiimdogfidfikgf
 
+## Викачуємо дані з ТГ
+https://desktop.telegram.org/?setln=uk
+
 
 ### Спочатку треба розібратись в тому, як влаштований html:
 
