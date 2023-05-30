@@ -147,6 +147,18 @@ https://auto.ria.com/uk/car/used/
 
 Simple scraper - https://chrome.google.com/webstore/detail/simple-scraper-%E2%81%A0%E2%80%94-scrape/lnddbhdmiciimpkbilgpklcglkdegdkg розширення для браузера Chrome.
 
+## Data Miner
+https://dataminer.io/u/2dajn1xy16/new/welcome
+
+## Link Grabber
+https://chrome.google.com/webstore/detail/link-grabber/caodelkhipncidmoebgbbeemedohcdma/
+
+## Link Gopher
+https://sites.google.com/site/linkgopher/
+
+## Всі результати google на одній сторінці
+https://chrome.google.com/webstore/detail/ginfinity/dgomfdmdnjbnfhodggijhpbmkgfabcmn
+
 
 ### Спочатку треба розібратись в тому, як влаштований html:
 
