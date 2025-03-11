@@ -167,7 +167,9 @@ https://chrome.google.com/webstore/detail/search-filter/eidhkmnbiahhgbgpjpiimdog
 ## Викачуємо дані з ТГ
 https://desktop.telegram.org/?setln=uk
 
-sns scaper
+## snscrape
+https://github.com/JustAnotherArchivist/snscrape
+
 ```
 snscrape --jsonl --since 2025-01-01 telegram-channel howtobook > howtobook.json
 ```
