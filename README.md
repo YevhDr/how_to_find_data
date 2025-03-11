@@ -167,6 +167,22 @@ https://chrome.google.com/webstore/detail/search-filter/eidhkmnbiahhgbgpjpiimdog
 ## Викачуємо дані з ТГ
 https://desktop.telegram.org/?setln=uk
 
+sns scaper
+```
+snscrape --jsonl --since 2025-01-01 telegram-channel howtobook > howtobook.json
+```
+
+
+
+фіксимо encoding
+```
+snscrape --jsonl --since 2025-01-01 telegram-channel howtobook | jq '.' --unbuffered > howtobook.json
+```
+
+
+
+
+
 
 ### Спочатку треба розібратись в тому, як влаштований html:
 
